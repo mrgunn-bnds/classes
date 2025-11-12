@@ -6,7 +6,7 @@ url: "https://mrgunn-bnds.github.io/classes"
 layout: default
 
 
-footer_content: "Copyright &copy; Daniel Gunn."
+footer_content: "Much thanks to Mr. Paul Baumgarten for the fantastic repo from which this was forked."
 
 # Color scheme supports "light" (default) and "dark"
 # color_scheme: dark
