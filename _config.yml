@@ -1,4 +1,4 @@
-title: Daniel Gunn
+title: Mr. Gunn
 description: Computer Scientist, teacher
 theme: just-the-docs
 favicon_ico: "/assets/favicon.ico"
@@ -9,7 +9,7 @@ layout: default
 footer_content: "Much thanks to Mr. Paul Baumgarten for the fantastic repo from which this was forked."
 
 # Color scheme supports "light" (default) and "dark"
-# color_scheme: dark
+color_scheme: dark
 
 # Footer last edited timestamp
 last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
