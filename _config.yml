@@ -1,16 +1,12 @@
-title: Paul Baumgarten
-description: Computer Scientist, teacher, published author, freelance programmer and self confessed geek
+title: Daniel Gunn
+description: Computer Scientist, teacher
 theme: just-the-docs
 favicon_ico: "/assets/favicon.ico"
-# url: "https://paulbaumgarten.github.io/pbaumgarten-2025/"
-url: "https://pbaumgarten.com"
+url: "https://mrgunn-bnds.github.io/classes"
 layout: default
 
-aux_links:
-  "Coding Quest": "https://codingquest.io"
-  "Code Hers HK": "https://codehershk.org"
 
-footer_content: "Copyright &copy; Paul Baumgarten."
+footer_content: "Copyright &copy; Daniel Gunn."
 
 # Color scheme supports "light" (default) and "dark"
 # color_scheme: dark
